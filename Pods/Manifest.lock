@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.7.1)
+  - FlexibleSteppedProgressBar (0.7.2)
+  - SQLite.swift (0.14.1):
+    - SQLite.swift/standard (= 0.14.1)
+  - SQLite.swift/standard (0.14.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FlexibleSteppedProgressBar
+  - SQLite.swift (~> 0.14.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FlexibleSteppedProgressBar
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  FlexibleSteppedProgressBar: 6a781cfed749bf59c69813a8706aa397c342ab5c
+  SQLite.swift: 2992550ebf3c5b268bf4352603e3df87d2a4ed72
+
+PODFILE CHECKSUM: c87a41dc6e7a80f02570d426152e674d6bc4822f
+
+COCOAPODS: 1.12.1

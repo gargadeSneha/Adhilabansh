@@ -1,0 +1,6 @@
+framework module Pods_AdhilabansahTests {
+  umbrella header "Pods-AdhilabansahTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

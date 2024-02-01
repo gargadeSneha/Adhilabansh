@@ -1,0 +1,6 @@
+framework module Pods_Adhilabansah {
+  umbrella header "Pods-Adhilabansah-umbrella.h"
+
+  export *
+  module * { export * }
+}
